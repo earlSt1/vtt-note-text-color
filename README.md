@@ -1,3 +1,5 @@
+**THIS MODULE IS DEPRECATED AS OF 0.7.5. It has been absorbed into core**
+
 # Note Text Color
 
 A small module which adds a text color field to the map note dialog for FoundryVTT
